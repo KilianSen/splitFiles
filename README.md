@@ -22,7 +22,7 @@ It also adds a layer of validation by comparing hash of reconstructed and origin
 
 For example:
 ```sh
-python file_processing.py --mode archive --input_path "./input.txt" --output_path "./output" --max_size 20
+python main.py --mode archive --input_path "./input.txt" --output_path "./output" --max_size 20
 ```
 ### Executables
 Found at
